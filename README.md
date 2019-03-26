@@ -11,4 +11,5 @@ sudo python3 modemanager.py
 
 # Should you not have proper permissions:
 sudo chmod 775 [whichever file you chose]
+\\
 Then run file again.
