@@ -27,7 +27,8 @@ do
         ifconfig $iface up
         service network-manager start
         break
-    else
+   
+   else
         printf "Please choose a valid operator.\n"    
     fi
 done	
