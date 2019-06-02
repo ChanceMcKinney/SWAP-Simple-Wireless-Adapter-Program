@@ -7,6 +7,8 @@ Save swap.sh to your location of choice. Navigate to that directory (saving file
 sudo ./swap.sh
 
 # Should you not have proper permissions:
-sudo chmod 775 [whichever file you chose]  
+Navigate to directory containing script.
+
+sudo chmod 775 swap.sh  
   
 Then run file again.
