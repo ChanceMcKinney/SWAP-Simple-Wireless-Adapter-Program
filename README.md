@@ -4,11 +4,11 @@ Streamlines the process of switching your wireless interface between monitor &am
 Save swap.sh to your location of choice. Navigate to that directory (saving file to root directory eliminates this step).
 
 # To run script:
-sudo ./swap.sh
+_sudo ./swap.sh_
 
 # Should you not have proper permissions:
 Navigate to directory containing script.
 
-sudo chmod 775 swap.sh  
+_sudo chmod 775 swap.sh_  
   
 Then run file again.
