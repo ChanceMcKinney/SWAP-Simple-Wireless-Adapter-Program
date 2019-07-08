@@ -33,7 +33,7 @@ do
     
     while true;
     do
-        printf "\n0. Monitor\n1. Managed\n\n> "
+        printf "\nMonitor Mode[0]    Managed Mode[1]\n\n> "
         read mode
        
         if [ $mode = 0 ] 
